@@ -1,0 +1,6 @@
+--HR.EMPLOYESS is a predefined table with a set of values in Oracle.
+-- SELECT keyword will select all the records from the given table name
+-- rows -> records
+-- column -> Fields/Headers
+
+SELECT * FROM HR.EMPLOYEES
