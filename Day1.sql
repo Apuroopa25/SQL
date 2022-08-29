@@ -1,0 +1,13 @@
+--HR.EMPLOYESS is a predefined table with a set of values in Oracle.
+-- SELECT keyword will select all the records from the given table name
+-- rows -> records
+-- column -> Fields/Headers
+
+SELECT * FROM HR.EMPLOYEES
+
+--You can select particular fields from the table.
+SELECT EMPLOYEE_ID,EMAIL,JOB_ID,SALARY FROM HR.EMPLOYEES
+
+--You can select the particular records from the table.
+--WHERE KEyword is used to select the particular records from the table.
+SELECT * FROM HR.EMPLOYEES WHERE SALARY>10000
