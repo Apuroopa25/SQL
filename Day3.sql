@@ -8,7 +8,7 @@ SELECT - show the data
 CREATE - create a table
 INSERT - insert the data
 UPDATE - update the records/data in a table
-DELETE - delete the records
+DELETE - delete the selected records
 
 
 Create own table:
